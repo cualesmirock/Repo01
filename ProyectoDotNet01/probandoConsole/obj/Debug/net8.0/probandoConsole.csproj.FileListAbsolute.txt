@@ -1,0 +1,15 @@
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/bin/Debug/net8.0/probandoConsole
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/bin/Debug/net8.0/probandoConsole.deps.json
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/bin/Debug/net8.0/probandoConsole.runtimeconfig.json
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/bin/Debug/net8.0/probandoConsole.dll
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/bin/Debug/net8.0/probandoConsole.pdb
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/probandoConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/probandoConsole.AssemblyInfoInputs.cache
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/probandoConsole.AssemblyInfo.cs
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/probandoConsole.csproj.CoreCompileInputs.cache
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/probandoConsole.sourcelink.json
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/probandoConsole.dll
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/refint/probandoConsole.dll
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/probandoConsole.pdb
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/probandoConsole.genruntimeconfig.cache
+/workspaces/Repo01/ProyectoDotNet01/probandoConsole/obj/Debug/net8.0/ref/probandoConsole.dll
